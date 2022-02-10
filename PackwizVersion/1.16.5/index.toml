@@ -99,8 +99,18 @@ hash = "bf2f20a05bd6a5ce07246e900d36d658e5e45935715971089e0b47b1c1a27b73"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.toml"
+hash = "f12515573f84ff18d3a03286363d27e6df2663544211a166db8b959c4a68c83d"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "ec9de711b3df5552b6ce500df5f0c6c1a1bf9b8ae4d5d55eb1fe8118125c3612"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas.toml"
+hash = "e355cc7ca141fb274b3dcd69034544f37f3b4f405d4c401159475952aedc37ba"
 metafile = true
 
 [[files]]
@@ -109,8 +119,28 @@ hash = "3ddd65c4a487a3d90c0faefd124e4849494529aa8eb1687a1abc6210272d2a16"
 metafile = true
 
 [[files]]
+file = "mods/bclib.toml"
+hash = "daa5968da5c04064e0c76a7c8e53de108a99c347ecbf5139c2064c8874381a9d"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.toml"
 hash = "922cb4bf8e6143240c26bf347755f8c441b2a39ea156e5cfbd4d5ef87dec0576"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "d541fce278ad307cea329852010bafc783414edfce5940fcf9357c40aff60758"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "cca733aa6a1c0ff1e8021abcaa34e724a59f10386e9bce3067276104249bcf4c"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.toml"
+hash = "e646829aa79a82f2bf4fa5eeaf8909b4f92f1b787801c2c24ba6717135ad0f2e"
 metafile = true
 
 [[files]]
@@ -124,6 +154,11 @@ hash = "1a41d6f8c6326892dd73d7d486187e1f53cfb8d4438d0879934a6006033e23a0"
 metafile = true
 
 [[files]]
+file = "mods/cave-biomes.toml"
+hash = "6c047829c815ce3dc5e8e32fe7c15fcf0e3d42de75ee052a45127262c29f97ef"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.toml"
 hash = "a20b097aae4aa3421efd154a9b2a61474f431c9b3f387fd929955981a23b1b9c"
 metafile = true
@@ -134,8 +169,33 @@ hash = "405422e979d9904e49f44d2ba163a869da092bf10187399ea92063bf3c61ff34"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.toml"
+hash = "5528e4567f158f1a85bdf88ba170b5f08fe9df335c61289037542058a2ca75ba"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.toml"
 hash = "faf9d59e04dcaf7bd7fd35d109b2660d75f1031c130da818252d84a1071b30b5"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric.toml"
+hash = "d4e90235532e3a0e50a90c594abd873cf286508669d57a7f9c145ef253e5371f"
+metafile = true
+
+[[files]]
+file = "mods/consistency.toml"
+hash = "8e3fac5c8ecd513afc547fc024440cc9b66590c474912e54ee973d6f5144b87a"
+metafile = true
+
+[[files]]
+file = "mods/couplings.toml"
+hash = "bbd8139b9f96cfadce848cd1aba1808120da30c2b7230b53dac1b60d711d190a"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "3fbbe853723a0f08cf6611547100d758aabbef93aac14d378173235f80b447d2"
 metafile = true
 
 [[files]]
@@ -154,8 +214,18 @@ hash = "33174f3da14096401c128af878500572f33a1d03bc654476f87ee54ab6d08012"
 metafile = true
 
 [[files]]
+file = "mods/dual-riders.toml"
+hash = "ca291de879b83c5961efbf3c92d51bf8767fbf23e6f4a7a12e22359587249cd4"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "e38de3cf64fd641b45ea3a7b76b302cb0f79e29dac797dbfb78e7f5170f7f8e5"
+metafile = true
+
+[[files]]
+file = "mods/earth2java-fabric.toml"
+hash = "688fe7b2154a041bded1a0152b8756ac249f0b861b0eff6f225288f95d38c2fc"
 metafile = true
 
 [[files]]
@@ -174,6 +244,11 @@ hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
 metafile = true
 
 [[files]]
+file = "mods/fabrication.toml"
+hash = "0c16ffc06dcee0fe1f3830c6360cb7b94512f580c691803658e07009c3d40cf6"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.toml"
 hash = "dfc053f184b015005bbdb47da5643e99fcac93de6a38d3464d935303ca8d8c90"
 metafile = true
@@ -189,8 +264,18 @@ hash = "c9f9623a4f5a3dd5edecf5450929d417ac97a8e88411a18037fd3ca96d2d1ef3"
 metafile = true
 
 [[files]]
+file = "mods/fat-experience-orbs.toml"
+hash = "2757c3866c34972652f2137da34e04556d797282abbb9502b741610c91ca5f37"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "33bd79fa4599ef1f2359bbe7f3858ef8c90771083271147926d693171d88dcaf"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.toml"
+hash = "b5237c025ee4188bac4ba49e9bdc6042d42f87745ab85f5c8ad278da2f5ac3f1"
 metafile = true
 
 [[files]]
@@ -206,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.toml"
 hash = "8ba4a0a3bcac8fb33e22e31d670afdd383bcefacf4b1af8cb2435cdb1a930f7c"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests-fabric.toml"
+hash = "87054eb41d752a53004762ff92ee7a110504c9bf11e07468aa59b171ca1e95d2"
 metafile = true
 
 [[files]]
@@ -229,11 +319,6 @@ hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "e508371a5b641a2a915e24ddfeb59d593e28e2649350c1df4264df679b368ec1"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "2bc67d27aa8e3305563d1a3660f164374cafd8ef6c747c4a5ba34a5ee7feb424"
 metafile = true
@@ -254,13 +339,38 @@ hash = "a75fbde7ff35a1aaeaf7570174e6558b0091cf20c2df629c930cdd841586913b"
 metafile = true
 
 [[files]]
+file = "mods/on-soul-fire.toml"
+hash = "b4f112f7cbe5ae12843664d4e45d459565416065fc11cda5d3d084faa6169391"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "ea2c4eaf14d10a4d0fe3556c2dc8b7f79106f1a38f48aaedda7fb1b56d9f6fec"
 metafile = true
 
 [[files]]
+file = "mods/red-bits.toml"
+hash = "16aa6177f1f4510bd49eef9a940e2ebe20ed7f3efbed86595a284142c147ea09"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "61b2bcbb3df5c980b9319bb5fa9460e7fbb7da838527dc7e534559a413945477"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "cfb09da1104288237d5286bc912aa2e30fb66391ff2e315081493abc259998a5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "54d016ebdaa22d88ef7231cc75340b68ba1822ff06f5d727ef0d80b74e427b01"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "2ebee395dc177de7a58ded93d2f56f372532194063a75dca24378b65ca3b5659"
 metafile = true
 
 [[files]]
@@ -284,8 +394,18 @@ hash = "c060c4d50466409d94ab27aa0aa0ff35f41ff09b47641089e7ea9c7d627980c3"
 metafile = true
 
 [[files]]
+file = "mods/stockpile.toml"
+hash = "0ce11b1feec70db7bfac3bd604e91bfed93566977a035217a1cb969da5b130e5"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.toml"
 hash = "e662300bea57d2cb522686632346e24cba8a47dd37503f97006900f4e54cf531"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester-fabric.toml"
+hash = "9a284c09c58d38ab3729e46977bb324d1e270c5494d69b6d35ba29c8c6520095"
 metafile = true
 
 [[files]]

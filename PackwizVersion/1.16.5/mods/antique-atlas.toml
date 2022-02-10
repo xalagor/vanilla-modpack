@@ -1,0 +1,13 @@
+name = "Antique Atlas"
+filename = "antiqueatlas-6.1.0-fabric-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3446/112/antiqueatlas-6.1.0-fabric-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "4169324324"
+
+[update]
+[update.curseforge]
+file-id = 3446112
+project-id = 227795
