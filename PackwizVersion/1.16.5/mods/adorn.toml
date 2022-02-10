@@ -11,3 +11,8 @@ hash = "3600341783"
 [update.curseforge]
 file-id = 3460629
 project-id = 320215
+
+[option]
+default = true
+description = "Мод на мебель. Обязателен для входа на сервер."
+optional = false

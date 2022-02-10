@@ -11,3 +11,8 @@ hash = "3103928623"
 [update.curseforge]
 file-id = 3516413
 project-id = 306612
+
+[option]
+default = true
+description = "Обязателен для входа на сервер."
+optional = false

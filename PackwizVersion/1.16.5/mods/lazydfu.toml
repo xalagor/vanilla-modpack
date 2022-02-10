@@ -11,3 +11,8 @@ hash = "2594861637"
 [update.curseforge]
 file-id = 3209972
 project-id = 433518
+
+[option]
+default = true
+description = "Ускоряет запуск игры. Влияет и на сервер, поэтому обязателен."
+optional = false

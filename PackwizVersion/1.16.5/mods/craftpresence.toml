@@ -11,3 +11,8 @@ hash = "770125164"
 [update.curseforge]
 file-id = 3475680
 project-id = 297038
+
+[option]
+default = true
+description = "Discord Rich Presence"
+optional = true

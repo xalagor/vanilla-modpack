@@ -11,3 +11,8 @@ hash = "223920940"
 [update.curseforge]
 file-id = 3269707
 project-id = 394667
+
+[option]
+default = true
+description = "Огонь душ ведёт себя правильно. Обязателен для входа на сервер."
+optional = false

@@ -11,3 +11,8 @@ hash = "1598097909"
 [update.curseforge]
 file-id = 3298609
 project-id = 398774
+
+[option]
+default = false
+description = "Позволяет редактировать настройки тумана"
+optional = true

@@ -11,3 +11,8 @@ hash = "43303172"
 [update.curseforge]
 file-id = 3508011
 project-id = 414445
+
+[option]
+default = true
+description = "Много мелких фич. Обязателен для входа на сервер."
+optional = true

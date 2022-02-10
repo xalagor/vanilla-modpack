@@ -11,3 +11,8 @@ hash = "3963234327"
 [update.curseforge]
 file-id = 3255122
 project-id = 446173
+
+[option]
+default = false
+description = "Индикатор атаки используется для многих штук с таймером."
+optional = true

@@ -11,3 +11,8 @@ hash = "3712112948"
 [update.curseforge]
 file-id = 3578855
 project-id = 430445
+
+[option]
+default = true
+description = "Дополнительные блоки. Много блоков. Обязателен для входа на сервер."
+optional = false

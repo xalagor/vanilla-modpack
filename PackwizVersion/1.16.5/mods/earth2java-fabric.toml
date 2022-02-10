@@ -11,3 +11,8 @@ hash = "4238327095"
 [update.curseforge]
 file-id = 3310364
 project-id = 398022
+
+[option]
+default = true
+description = "Добавляет штуки из голосований в Minecraft Earth. Обязательно для входа на сервер."
+optional = false

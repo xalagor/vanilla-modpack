@@ -11,3 +11,8 @@ hash = "1223989059"
 [update.curseforge]
 file-id = 3196688
 project-id = 443782
+
+[option]
+default = false
+description = "Кровати становятся производительнее и быстрее"
+optional = true

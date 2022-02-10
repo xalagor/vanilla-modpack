@@ -11,3 +11,8 @@ hash = "772506799"
 [update.curseforge]
 file-id = 3180179
 project-id = 311377
+
+[option]
+default = true
+description = "Лучше незер. Обязателен для входа на сервер."
+optional = false

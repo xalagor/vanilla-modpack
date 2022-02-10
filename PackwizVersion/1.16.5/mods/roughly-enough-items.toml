@@ -11,3 +11,8 @@ hash = "4262728907"
 [update.curseforge]
 file-id = 3609907
 project-id = 310111
+
+[option]
+default = true
+description = "Просмотр рецептов"
+optional = true

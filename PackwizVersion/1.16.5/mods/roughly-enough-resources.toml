@@ -11,3 +11,8 @@ hash = "2130531811"
 [update.curseforge]
 file-id = 3343450
 project-id = 325625
+
+[option]
+default = true
+description = "Просмотр спавнов ресурсов"
+optional = true

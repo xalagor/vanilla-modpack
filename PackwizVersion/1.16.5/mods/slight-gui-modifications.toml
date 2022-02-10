@@ -11,3 +11,8 @@ hash = "1360047089"
 [update.curseforge]
 file-id = 3202525
 project-id = 380393
+
+[option]
+default = false
+description = "Добавляет много разных включаемых изменений в интерфейсе. Нужно открывать страницу мода и смотреть"
+optional = true

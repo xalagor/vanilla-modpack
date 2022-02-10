@@ -11,3 +11,8 @@ hash = "1129263091"
 [update.curseforge]
 file-id = 3374434
 project-id = 311120
+
+[option]
+default = true
+description = "Двери открываются одновременно. Обязательно для входа на сервер."
+optional = true

@@ -11,3 +11,8 @@ hash = "3469236511"
 [update.curseforge]
 file-id = 3505180
 project-id = 357540
+
+[option]
+default = true
+description = "Дополнительный HUD"
+optional = true

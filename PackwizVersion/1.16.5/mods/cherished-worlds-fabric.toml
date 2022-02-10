@@ -11,3 +11,8 @@ hash = "1058764622"
 [update.curseforge]
 file-id = 3384417
 project-id = 398502
+
+[option]
+default = true
+description = "Можно добавлять миры в любимые"
+optional = true

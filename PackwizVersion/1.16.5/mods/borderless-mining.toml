@@ -11,3 +11,8 @@ hash = "3260083652"
 [update.curseforge]
 file-id = 3033277
 project-id = 310205
+
+[option]
+default = false
+description = "Позволяет использовать Minecraft в Borderless"
+optional = true

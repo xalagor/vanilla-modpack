@@ -11,3 +11,8 @@ hash = "3277692697"
 [update.curseforge]
 file-id = 3470354
 project-id = 496150
+
+[option]
+default = true
+description = "Показывает историю смертей и даже инвентарь на тот момент."
+optional = true

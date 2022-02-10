@@ -11,3 +11,8 @@ hash = "2302667665"
 [update.curseforge]
 file-id = 3018405
 project-id = 299913
+
+[option]
+default = true
+description = "Бочки для хранения предметов. Обязателен для входа на сервер."
+optional = false

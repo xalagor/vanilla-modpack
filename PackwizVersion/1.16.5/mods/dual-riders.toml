@@ -11,3 +11,8 @@ hash = "1702090748"
 [update.curseforge]
 file-id = 3172148
 project-id = 435980
+
+[option]
+default = true
+description = "На лошади можно сидеть вдвоем. Обязательно для входа на сервер."
+optional = false

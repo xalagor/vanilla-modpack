@@ -11,3 +11,8 @@ hash = "1452408835"
 [update.curseforge]
 file-id = 3606846
 project-id = 353890
+
+[option]
+default = false
+description = "Игра не закрывается при краше клиента"
+optional = true

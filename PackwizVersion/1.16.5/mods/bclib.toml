@@ -11,3 +11,8 @@ hash = "3703439192"
 [update.curseforge]
 file-id = 3375511
 project-id = 495191
+
+[option]
+default = true
+description = "API для BetterNether и BetterEnd. Обязателен для входа на сервер."
+optional = false

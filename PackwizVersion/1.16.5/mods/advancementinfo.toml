@@ -1,6 +1,6 @@
 name = "AdvancementInfo"
 filename = "advancementinfo-1.16.5-fabric0.30.0-1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3193/541/advancementinfo-1.16.5-fabric0.30.0-1.2.jar"
@@ -11,3 +11,8 @@ hash = "1886092772"
 [update.curseforge]
 file-id = 3193541
 project-id = 403815
+
+[option]
+default = false
+description = "Увеличивает окно достижений, добавляет поиск и всякое"
+optional = true

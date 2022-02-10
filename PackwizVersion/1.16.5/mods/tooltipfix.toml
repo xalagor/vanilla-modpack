@@ -11,3 +11,8 @@ hash = "4012475434"
 [update.curseforge]
 file-id = 3087328
 project-id = 411557
+
+[option]
+default = false
+description = "Делает так, чтобы вообще любой tooltip вмещался в экран"
+optional = true

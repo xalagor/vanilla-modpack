@@ -11,3 +11,8 @@ hash = "881430275"
 [update.curseforge]
 file-id = 3311351
 project-id = 319057
+
+[option]
+default = true
+description = "API для многих модов. Обязателен для входа на сервер."
+optional = false

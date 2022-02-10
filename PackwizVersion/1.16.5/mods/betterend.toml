@@ -11,3 +11,8 @@ hash = "3035232947"
 [update.curseforge]
 file-id = 3360847
 project-id = 413596
+
+[option]
+default = true
+description = "Лучше край. Обязателен для входа на сервер"
+optional = false

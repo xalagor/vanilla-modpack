@@ -11,3 +11,8 @@ hash = "213976620"
 [update.curseforge]
 file-id = 3299172
 project-id = 401648
+
+[option]
+default = false
+description = "Кастомизируемый f3"
+optional = true

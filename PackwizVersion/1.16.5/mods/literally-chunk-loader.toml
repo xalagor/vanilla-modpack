@@ -11,3 +11,8 @@ hash = "593796848"
 [update.curseforge]
 file-id = 3320410
 project-id = 378183
+
+[option]
+default = true
+description = "Загрузчик чанков. Обязателен для входа на сервер."
+optional = false

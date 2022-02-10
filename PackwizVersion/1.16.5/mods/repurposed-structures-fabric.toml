@@ -11,3 +11,8 @@ hash = "2181655830"
 [update.curseforge]
 file-id = 3376358
 project-id = 391366
+
+[option]
+default = false
+description = "Генерация структур. Обязателен для входа на сервер."
+optional = false

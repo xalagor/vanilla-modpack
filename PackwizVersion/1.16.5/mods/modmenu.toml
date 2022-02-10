@@ -11,3 +11,8 @@ hash = "1537659351"
 [update.curseforge]
 file-id = 3479748
 project-id = 308702
+
+[option]
+default = false
+description = "Удобное меню модов с описаниями. Становится ещё удобнее, когда включен ресурспак."
+optional = true
