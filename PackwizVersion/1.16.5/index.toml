@@ -414,6 +414,11 @@ hash = "2d4803f382b3c737fba93286e86f6bc2e37107d59894c9d0f25b35e8b8a4836c"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "bb7c80a99ae2d98998eca02c45e3409b52de67f4435d5acdf281e7330107c054"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
