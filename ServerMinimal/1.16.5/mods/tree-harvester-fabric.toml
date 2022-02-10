@@ -1,0 +1,13 @@
+name = "Tree Harvester (Fabric)"
+filename = "treeharvester-fabric_1.16.x-4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3535/263/treeharvester-fabric_1.16.x-4.1.jar"
+hash-format = "murmur2"
+hash = "3752035026"
+
+[update]
+[update.curseforge]
+file-id = 3535263
+project-id = 527685

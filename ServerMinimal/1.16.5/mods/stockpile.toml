@@ -1,0 +1,13 @@
+name = "Stockpile"
+filename = "stockpile-1.1.5+1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3018/405/stockpile-1.1.5+1.16.1.jar"
+hash-format = "murmur2"
+hash = "2302667665"
+
+[update]
+[update.curseforge]
+file-id = 3018405
+project-id = 299913

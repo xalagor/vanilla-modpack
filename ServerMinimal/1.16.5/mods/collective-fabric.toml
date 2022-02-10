@@ -1,0 +1,13 @@
+name = "Collective (Fabric)"
+filename = "collective-fabric-1.16.x-4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3638/952/collective-fabric-1.16.x-4.4.jar"
+hash-format = "murmur2"
+hash = "2475285421"
+
+[update]
+[update.curseforge]
+file-id = 3638952
+project-id = 526606
