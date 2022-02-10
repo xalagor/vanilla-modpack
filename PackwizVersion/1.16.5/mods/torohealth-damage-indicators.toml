@@ -1,0 +1,13 @@
+name = "ToroHealth Damage Indicators"
+filename = "torohealth-1.16.5-fabric-6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3408/172/torohealth-1.16.5-fabric-6.jar"
+hash-format = "murmur2"
+hash = "2693448016"
+
+[update]
+[update.curseforge]
+file-id = 3408172
+project-id = 245733

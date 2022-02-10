@@ -1,0 +1,13 @@
+name = "Literally Chunk Loader"
+filename = "literally-chunk-loader-1.16-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3320/410/literally-chunk-loader-1.16-2.0.3.jar"
+hash-format = "murmur2"
+hash = "593796848"
+
+[update]
+[update.curseforge]
+file-id = 3320410
+project-id = 378183

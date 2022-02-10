@@ -1,0 +1,11 @@
+name = "Vanilla+ ServerMinimal"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e3f3719cb6789fc840f94d891e290de5d2a283ed5a6a642ec7bc489347d1cb1"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.16.5"
