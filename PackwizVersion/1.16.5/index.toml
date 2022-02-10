@@ -628,15 +628,6 @@ hash = "b5237c025ee4188bac4ba49e9bdc6042d42f87745ab85f5c8ad278da2f5ac3f1"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen-fabric-mc1.16.5-0.2.jar"
-hash = "03b2b01792a7dda83125da1daeb4125ef9ca1f959a459f037006ea56a9fcfed2"
-
-[[files]]
-file = "mods/hydrogen.toml"
-hash = "611ff5f6491928b3ebe69a8ad1f62c094f7103a5ba8c521088616214eb3bad8f"
-metafile = true
-
-[[files]]
 file = "mods/image2map.toml"
 hash = "c89268d12a779b27f1dbe9fb083fec6b59b4c9ca608d4adc57f7f9eb66234de4"
 metafile = true
