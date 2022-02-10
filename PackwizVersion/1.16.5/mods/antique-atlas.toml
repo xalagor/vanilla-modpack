@@ -11,8 +11,3 @@ hash = "4169324324"
 [update.curseforge]
 file-id = 3446112
 project-id = 227795
-
-[option]
-default = true
-description = "Карта, работающая как предмет. Обязателен для входа на сервер."
-optional = false

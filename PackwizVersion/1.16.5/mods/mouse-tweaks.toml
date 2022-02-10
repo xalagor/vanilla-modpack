@@ -11,8 +11,3 @@ hash = "3187480214"
 [update.curseforge]
 file-id = 3603191
 project-id = 60089
-
-[option]
-default = true
-description = "Улучшения для мышки"
-optional = true

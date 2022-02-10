@@ -11,8 +11,3 @@ hash = "3286848554"
 [update.curseforge]
 file-id = 3294341
 project-id = 412182
-
-[option]
-default = true
-description = "Улучшает биомы. Обязателен для входа на сервер."
-optional = false

@@ -11,8 +11,3 @@ hash = "3003802085"
 [update.curseforge]
 file-id = 3253932
 project-id = 445838
-
-[option]
-default = true
-description = "Кормушки для животных. Обязательно для входа на сервер."
-optional = false

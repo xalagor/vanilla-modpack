@@ -11,8 +11,3 @@ hash = "1146055465"
 [update.curseforge]
 file-id = 3170735
 project-id = 430219
-
-[option]
-default = false
-description = "Книжки с зачарованиями можно читать. Внутри лор и описание зачара."
-optional = true

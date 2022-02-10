@@ -11,8 +11,3 @@ hash = "1460256454"
 [update.curseforge]
 file-id = 3626706
 project-id = 248787
-
-[option]
-default = true
-description = "Отображение сытости предметов."
-optional = true

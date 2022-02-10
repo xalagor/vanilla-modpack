@@ -11,8 +11,3 @@ hash = "3376426107"
 [update.curseforge]
 file-id = 3309414
 project-id = 415438
-
-[option]
-default = true
-description = "Агрокультуры и еда. Обязательно для входа на сервер."
-optional = true

@@ -11,8 +11,3 @@ hash = "3752035026"
 [update.curseforge]
 file-id = 3535263
 project-id = 527685
-
-[option]
-default = true
-description = "Рубка деревьев. Обязателен для входа на сервер."
-optional = false

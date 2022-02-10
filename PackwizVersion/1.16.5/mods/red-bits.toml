@@ -11,8 +11,3 @@ hash = "3864921853"
 [update.curseforge]
 file-id = 3244192
 project-id = 403914
-
-[option]
-default = true
-description = "Дополнительные штуки для редстоуна. Обязателен для входа на сервер."
-optional = false

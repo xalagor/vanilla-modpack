@@ -11,8 +11,3 @@ hash = "3244022036"
 [update.curseforge]
 file-id = 3485637
 project-id = 459857
-
-[option]
-default = false
-description = "Снижает потребление RAM"
-optional = true

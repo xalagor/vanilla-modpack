@@ -11,8 +11,3 @@ hash = "3122352508"
 [update.curseforge]
 file-id = 3344974
 project-id = 360438
-
-[option]
-default = false
-description = "Ускоряет просчет света и загрузку чанков"
-optional = true

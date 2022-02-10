@@ -11,8 +11,3 @@ hash = "2480128637"
 [update.curseforge]
 file-id = 3623798
 project-id = 447673
-
-[option]
-default = false
-description = "Дополнительные настройки для анимаций и частиц"
-optional = true

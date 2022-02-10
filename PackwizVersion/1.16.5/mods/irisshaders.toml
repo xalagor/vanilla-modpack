@@ -11,8 +11,3 @@ hash = "1699418536"
 [update.curseforge]
 file-id = 3612852
 project-id = 455508
-
-[option]
-default = false
-description = "Поддержка шейдеров"
-optional = true

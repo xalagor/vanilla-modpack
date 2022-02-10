@@ -11,8 +11,3 @@ hash = "2693448016"
 [update.curseforge]
 file-id = 3408172
 project-id = 245733
-
-[option]
-default = false
-description = "Отображение цифр урона"
-optional = true

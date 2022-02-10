@@ -11,8 +11,3 @@ hash = "907540462"
 [update.curseforge]
 file-id = 3570674
 project-id = 407206
-
-[option]
-default = false
-description = "Отображение голов в чате"
-optional = true

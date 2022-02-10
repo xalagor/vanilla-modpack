@@ -11,8 +11,3 @@ hash = "233516393"
 [update.curseforge]
 file-id = 3193496
 project-id = 273279
-
-[option]
-default = false
-description = "Позволяет исправить фантомные блоки, несколько раз сообщая серверу про убирание блока. Включается командой /ghost, но может сильно нагрузить сервер"
-optional = true

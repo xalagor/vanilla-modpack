@@ -11,8 +11,3 @@ hash = "681426195"
 [update.curseforge]
 file-id = 3186845
 project-id = 371307
-
-[option]
-default = true
-description = "Генерация красивых пещер. Обязателен для входа на сервер."
-optional = false

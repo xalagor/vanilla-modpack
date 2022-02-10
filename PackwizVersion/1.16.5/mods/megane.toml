@@ -11,8 +11,3 @@ hash = "795579880"
 [update.curseforge]
 file-id = 3432108
 project-id = 408118
-
-[option]
-default = false
-description = "Дополнительные данные для hwyla"
-optional = true

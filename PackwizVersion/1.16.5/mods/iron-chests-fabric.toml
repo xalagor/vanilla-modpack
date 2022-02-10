@@ -11,8 +11,3 @@ hash = "1880921386"
 [update.curseforge]
 file-id = 3397633
 project-id = 402750
-
-[option]
-default = true
-description = "Сундуки большей вместимости. Обязателен для входа на сервер."
-optional = false

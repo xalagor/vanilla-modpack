@@ -11,8 +11,3 @@ hash = "85352162"
 [update.curseforge]
 file-id = 3573933
 project-id = 399798
-
-[option]
-default = false
-description = "Исправляет артефакты в моделях предметов в руке"
-optional = true

@@ -11,8 +11,3 @@ hash = "1867438013"
 [update.curseforge]
 file-id = 3438302
 project-id = 433539
-
-[option]
-default = true
-description = "Спальные мешки. Обязателен для входа на сервер."
-optional = false

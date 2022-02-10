@@ -11,8 +11,3 @@ hash = "3484688206"
 [update.curseforge]
 file-id = 3629291
 project-id = 513840
-
-[option]
-default = false
-description = "Исправляет фризы игры при открытии ресурспаков и скриншотов"
-optional = true

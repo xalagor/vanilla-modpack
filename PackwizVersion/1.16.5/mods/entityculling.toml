@@ -11,8 +11,3 @@ hash = "4195997127"
 [update.curseforge]
 file-id = 3358819
 project-id = 448233
-
-[option]
-default = false
-description = "Не рисует сущности, пока те не в прямой видимости"
-optional = true
