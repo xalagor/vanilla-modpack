@@ -1,10 +1,11 @@
-name = "Vanilla+ ServerMinimal"
+name = "Fabulously Optimized"
+version = "1.12.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "78367e2f5709258dfdbb4bf874883ff33cf1597bf6cb3ee1d06965e3174b138a"
+hash = "ba77dfc466f36b8408c15b564a6a326f447e6f308adf16a0bab1f99195055389"
 
 [versions]
 fabric = "0.12.12"
