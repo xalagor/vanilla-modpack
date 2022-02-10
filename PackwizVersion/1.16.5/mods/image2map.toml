@@ -11,3 +11,8 @@ hash = "1975508638"
 [update.curseforge]
 file-id = 3187349
 project-id = 403656
+
+[option]
+default = true
+description = "Позволяет нанести любую картинку на карту. Обязателен для входа на сервер."
+optional = false

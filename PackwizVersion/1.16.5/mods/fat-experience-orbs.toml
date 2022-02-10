@@ -11,3 +11,8 @@ hash = "4276520181"
 [update.curseforge]
 file-id = 3128781
 project-id = 334873
+
+[option]
+default = true
+description = "Объединяет сферы опыта в одну. Обязателен для входа на сервер."
+optional = false
