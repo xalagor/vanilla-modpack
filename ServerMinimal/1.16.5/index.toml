@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Vanilla+ ServerMinimal-1.12.1.zip"
-hash = "bb419d7b013186fa0a34a71a62554c7dd96bf7d4ef295b2ceb5d59b3da76d7c7"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "6cc48cd6f88294543beec16cb4cb6328c1d8823c2f8b4bd5e2991080a06e0077"
 
@@ -427,10 +423,6 @@ metafile = true
 file = "mods/hwyla.toml"
 hash = "b5237c025ee4188bac4ba49e9bdc6042d42f87745ab85f5c8ad278da2f5ac3f1"
 metafile = true
-
-[[files]]
-file = "mods/hydrogen-fabric-mc1.16.5-0.2.jar"
-hash = "03b2b01792a7dda83125da1daeb4125ef9ca1f959a459f037006ea56a9fcfed2"
 
 [[files]]
 file = "mods/iron-chests-fabric.toml"
